@@ -1,0 +1,117 @@
+html, body{
+	height:100%;
+	margin: 0px;
+	padding: 0px;
+	font-family:Arial;
+	font-size: 14px;
+	text-align: center;
+	color: black;
+}
+
+.item1{
+    height: 44px;
+    background: #FFA319;
+    color: #CC7A00;
+    border-bottom: 1px solid;
+	width: 100%;
+}
+
+.item{
+    height: 44px;
+    background: #FFB547;
+    color: black;
+    border-bottom: 1px solid;
+	width: 100%;
+}
+
+li {
+	list-style: none;
+}
+
+h1, footer {
+	font-size: 20px;
+    text-align: center;
+	line-height: 44px;
+    margin: 0px;
+	color: black;
+}
+
+a {
+	font-size: 20px;
+    text-align: center;
+	line-height: 44px;
+    margin: 0px;
+	text-decoration: none;
+	display: block;
+	color: white;
+}
+
+#paginaVitaminaA{
+	height: 100%;
+	width: 100%;
+	display: none;
+	-webkit-transition: width 2s;
+	transition: width 2s;
+}
+
+#paginaVitaminaA:target{
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+#paginaVitaminaB{
+	height: 100%;
+	width: 100%;
+	display: none;
+	-webkit-transition: width 2s;
+	transition: width 2s;
+}
+
+#paginaVitaminaB:target{
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+#paginaVitaminaC{
+	height: 100%;
+	width: 100%;
+	display: none;
+	-webkit-transition: width 2s;
+	transition: width 2s;
+}
+
+#paginaVitaminaC:target{
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+#paginaVitaminaD{
+	height: 100%;
+	width: 100%;
+	display: none;
+	-webkit-transition: width 2s;
+	transition: width 2s;
+}
+
+#paginaVitaminaD:target{
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+#paginaVitaminaE{
+	height: 100%;
+	width: 100%;
+	display: none;
+	-webkit-transition: width 2s;
+	transition: width 2s;
+}
+
+#paginaVitaminaE:target{
+	height: 100%;
+	width: 100%;
+	display: block;
+}
